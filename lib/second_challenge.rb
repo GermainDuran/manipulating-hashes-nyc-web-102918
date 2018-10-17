@@ -1,5 +1,5 @@
 def second_challenge
-  new_array=[]
+
   groceries = {
    dairy: ["milk", "yogurt", "cheese"],
    vegetable: ["carrots", "broccoli", "cucumbers"],
