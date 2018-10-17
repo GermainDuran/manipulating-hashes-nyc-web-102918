@@ -10,7 +10,7 @@ def second_challenge
   #code your solution here!
   groceries.each do |key,value|
     value.each do |attribute,data|
-    new_array << attribute.values 
+       new_array << attribute.values 
      end 
   end 
   new_array
